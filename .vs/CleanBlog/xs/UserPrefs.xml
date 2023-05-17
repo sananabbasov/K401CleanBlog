@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{8D2BBBA9-D0E9-4CB1-BD23-55D5E8C49856}|https">
+  <MonoDevelop.Ide.ItemProperties.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Web/Program.cs">
+    <Files>
+      <File FileName="Web/Program.cs" Line="32" Column="46" />
+      <File FileName="Web/Data/AppDbContext.cs" Line="16" Column="2" />
+      <File FileName="Web/Models/Article.cs" Line="17" Column="34" />
+      <File FileName="Web/Models/Author.cs" Line="1" Column="1" />
+      <File FileName="Web/Controllers/HomeController.cs" Line="14" Column="28" />
+      <File FileName="Web/appsettings.json" Line="6" Column="6" />
+      <File FileName="Web/Views/Home/Index.cshtml" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CleanBlog" expanded="True">
+            <Node name="Web" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
